@@ -4,7 +4,7 @@ public partial class PartialClass
 {
     public void Method1()
     {
-        Console.WriteLine("Method1 from 1st PartialClass");
+        Console.WriteLine("Method1 called from 1st PartialClass");
     }
 }
 
@@ -12,7 +12,7 @@ public partial class PartialClass
 {
     public void Method2()
     {
-        Console.WriteLine("Method2 from 2nd PartialClass");
+        Console.WriteLine("Method2 called from 2nd PartialClass");
     }
 }
 
